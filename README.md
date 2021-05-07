@@ -13,10 +13,15 @@ The goal behind the analysis of Pewlett Hackard data was to help the management 
 ## Results of the Analysis
 
       * There are a total of 90,398 employees who were born between 1952 to 1955 who are set to retire shortly 
+      ![Employee Count](https://github.com/surchand30/Pewlett-Hackard-Analysis/blob/main/Images/Employee_Count.PNG)
       * The Engineers comprising of Sr. Engineers,Assistant Engineers and Engineers contribute to aprox. 50% of the retiring workforce
-      * There are no mentors available with Manager title. This could be a problem since the company will have to hire atleast 2 Managers to replace the ones who are retiring  and these new hires may not have a mentor with the same title for a smooth transition      
+      * There are no mentors available with Manager title. This could be a problem since the company will have to hire atleast 2 Managers to replace the ones who are retiring  and these new hires may not have a mentor with the same title for a smooth transition
+      ![Mentors By Title](https://github.com/surchand30/Pewlett-Hackard-Analysis/blob/main/Images/mentors_by_title.PNG)    
       * Based on the current list of employees, there are 1549 employees who have birth dates in 1965 who are eligible to become mentors for the new hires
+      ![Mentorship Eligibility](https://github.com/surchand30/Pewlett-Hackard-Analysis/blob/main/Images/Mentors_available.PNG)
       * The average age of an employee at Pewlett-Hackard is 62 years
+      * More Male Employees are retiring compared to female employees
+      ![Retirement by Gender](https://github.com/surchand30/Pewlett-Hackard-Analysis/blob/main/Images/retirement_by_gender.PNG)
       
 ## Summary
 
